@@ -1,3 +1,5 @@
+// solishtiruv operatorlari
+
 package main
 
 import "fmt"

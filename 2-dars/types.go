@@ -1,3 +1,5 @@
+// asosiy turlar (basic types)
+
 package main
 
 import "fmt"

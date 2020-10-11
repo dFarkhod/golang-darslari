@@ -1,3 +1,5 @@
+// bitwise operatorlar
+
 package main
 
 import "fmt"

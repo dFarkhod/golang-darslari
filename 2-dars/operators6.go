@@ -1,3 +1,5 @@
+// misc (boshqa) operatorlar
+
 package main
 
 import "fmt"

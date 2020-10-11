@@ -1,3 +1,5 @@
+// arifmetik operatorlar
+
 package main
 
 import "fmt"

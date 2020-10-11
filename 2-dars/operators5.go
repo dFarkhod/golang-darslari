@@ -1,3 +1,5 @@
+// assignment (qiymat berish) operatorlari
+
 package main
 
 import "fmt"

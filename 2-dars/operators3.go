@@ -1,3 +1,5 @@
+// mantiqiy operatorlar
+
 package main
 
 import "fmt"
