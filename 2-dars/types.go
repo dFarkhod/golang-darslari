@@ -40,4 +40,5 @@ func types() {
 	fmt.Printf("\nstr matnning uzunligi %d", len(str))
 	fmt.Printf("\nMatn: %s", str)
 	fmt.Printf("\nstr ning turi: %T", str)
+	const PI = 3.14
 }
